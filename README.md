@@ -2,7 +2,7 @@
 
 A simple Python program that manages patient records using Object-Oriented Programming (OOP).
 Domain: Health | Course: PROG211 Object-Oriented Programming 1
-Author: [Your Full Name] | Student ID: [Your ID]
+Author: [Fatim Daramy] | Student ID: [905006319]
 
 ## Features
 - `Patient` and `Doctor` classes with attributes and methods
